@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: DisenchantTooltip
+## Notes: Remembers what your disenchanted items turned into and shows it in their tooltip.
+## Version: 0.1
+## SavedVariables: DisenchantTooltipDB
+
+DisenchantTooltip.lua
